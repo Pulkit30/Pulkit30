@@ -24,7 +24,7 @@ Always building, always exploring new technologies. Open to full-stack and backe
 **Architecture**
 - Distributed Systems • Event-Driven Architecture • Kafka • Caching • Load Balancing
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 - Resume Matcher (AI-powered ATS Analyzer)
 - AI Career Navigator
