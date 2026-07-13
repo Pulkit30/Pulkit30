@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+### 💻 About Me
 
 I am a **Senior Full Stack Engineer** with **5+ years of experience** building scalable enterprise applications across **fintech** and **enterprise** domains. I work primarily with TypeScript, JavaScript, React, Node.js, Python, MongoDB, and Google Cloud Platform (GCP), with a passion for solving complex engineering challenges through modern software development.
 
@@ -61,30 +61,20 @@ I am a **Senior Full Stack Engineer** with **5+ years of experience** building s
 
 ---
 
-### 🧠 Architecture Patterns I Implement
+### 🏗️ Architectural Expertise & Design Patterns
 * 🏗️ **Distributed Systems** & Microservices Architecture
 * ⚡ **Event-Driven Architecture** (EDA) using Apache Kafka
-* 🚀 Performance Engineering via **Caching & Load Balancing**
+* 🔑 Performance Engineering via **Caching & Load Balancing**
 
 ---
 
-### 💻 Featured Projects
+### 📂 Featured Projects
 
 * 🤖 **Resume Matcher** – AI-powered ATS Analyzer
 * 🧭 **AI Career Navigator** – Personalized career pathing platform
 * 💳 **Financial Transaction Platform** – High-throughput, resilient fintech application
 * 📝 **Lecture Summarizer** – LLM-powered context extractor
 * 🔄 **AlgoFlow** – Automated workflow orchestrator
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pulkit30&show_icons=true&theme=radical" alt="Pulkit's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkit30&layout=compact&theme=radical" alt="Top Langs" />
-</p>
 
 ---
 
@@ -95,4 +85,4 @@ Let's discuss distributed architecture, full-stack ecosystems, or deep tech!
 * 💼 **LinkedIn:** [pulkit-sharma-055533b8](https://www.linkedin.com/in/pulkit-sharma-055533b8/)
 * 🌐 **Website:** [ScoutPrism](https://www.scoutprism.com)
 
-🚀 *“Always building, always exploring.”*
+✨ *“Always building, always exploring.”*
